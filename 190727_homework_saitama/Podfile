@@ -10,4 +10,6 @@ target '190727_homework_saitama' do
   use_frameworks!
   pod "Koloda"
 
+  pod 'SCLAlertView'
+
 end
