@@ -1,0 +1,6 @@
+framework module Pods_190727_homework_saitama {
+  umbrella header "Pods-190727_homework_saitama-umbrella.h"
+
+  export *
+  module * { export * }
+}
